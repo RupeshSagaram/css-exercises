@@ -1,0 +1,20 @@
+.simple{
+    background-color:hsl(352, 82%, 76%);
+    font-family:Verdana, 'DejaVu Sana', sans-serif;
+}
+
+#no_1{
+    color:hsl(240, 85%, 51%);
+    font-size:36px;
+}
+
+.lil_diff{
+    font-size:24px;
+}
+
+#no_2{
+    background-color:hsl(120, 81%, 69%);
+    font-size:24px;
+    font-weight:bold;
+}
+
